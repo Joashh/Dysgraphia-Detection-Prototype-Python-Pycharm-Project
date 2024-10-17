@@ -18,3 +18,14 @@ Our university requires us to create a software with a concept of basic machine 
 4. In order for the project to run, you need to install modules including the tesseract that needed to be installed in your device or computers
 5. Just follow the error codes for the module requirements
 6. Adjust the 'levelness.py' for configuring the feature extraction process and the model
+
+![image](https://github.com/user-attachments/assets/0bb1f30b-7f97-4f68-9ab5-de8c7067fe41)
+
+Download link for project: https://www.mediafire.com/file/fd0gse5fzy09s03/Dysgraphia_Detection.zip/file
+
+Download link for dysgraphic dataset for input:
+https://www.mediafire.com/file/7xyx32c5sndq0vr/Dysgraphic_Input_Sure.zip/file
+
+
+
+If my project works, and you like it. A coffee is appreciated :3

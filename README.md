@@ -1,13 +1,14 @@
 # Dysgraphia-Detection-Prototype-Python-Pycharm-Project
-Our university requires us to create a software with a concept of basic machine learning. You are free to continue my work as long as you will develop it and use it on a good purpose and not just literally copying or imitate my work. My project works by writing your name on the black screen and when you hit 'Lock' then 'Predict' - it will predict whether the input is a potential dysgraphic or low potential dysgraphic. You can upload as well files with .png and .jpg format. 
-Description:
+<div style="text-align: justify;">
+Our university requires us to create a software with a concept of basic machine learning. You are free to continue my work as long as you will develop it and use it on a good purpose and not just literally copying or imitate my work. My project works by writing your name on the black screen and when you hit 'Lock' then 'Predict' - it will predict whether the input is a potential dysgraphic or low potential dysgraphic. You can upload as well files with .png and .jpg format. </div>
 
-• Prone to any errors
-• Model has 65% accuracy
-• Super need to be developed
-• 3 features only
-• Created by student 
-• Supervised Binary Classification
+Description:
+• Prone to any errors <br>
+• Model has 65% accuracy <br>
+• Super need to be developed <br>
+• 3 features only <br>
+• Created by student  <br>
+• Supervised Binary Classification <br>
 
 
 **Steps to run:**

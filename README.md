@@ -2,7 +2,7 @@
 <div style="text-align: justify;">
 Our university requires us to create a software with a concept of basic machine learning. You are free to continue my work as long as you will develop it and use it on a good purpose and not just literally copying or imitate my work. My project works by writing your name on the black screen and when you hit 'Lock' then 'Predict' - it will predict whether the input is a potential dysgraphic or low potential dysgraphic. You can upload as well files with .png and .jpg format. </div>
 
-Description:
+Description: <br>
 • Prone to any errors <br>
 • Model has 65% accuracy <br>
 • Super need to be developed <br>

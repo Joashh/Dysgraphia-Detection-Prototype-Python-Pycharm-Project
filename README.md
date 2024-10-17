@@ -4,12 +4,12 @@ Our university requires us to create a software with a concept of basic machine 
 <br>
 
 **Description:** <br>
- > • Prone to any errors <br>
- > • Model has 65% accuracy <br>
- > • Super need to be developed <br>
- > • 3 features only <br>
- > • Created by student  <br>
- > • Supervised Binary Classification <br>
+- Prone to any errors <br>
+- Model has 65% accuracy <br>
+- Super need to be developed <br>
+- 3 features only <br>
+- Created by student  <br>
+- Supervised Binary Classification <br>
 
 **Steps to run:**
 1. Download the zip file and extract to folder
